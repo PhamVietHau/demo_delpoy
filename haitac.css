@@ -1,4 +1,8 @@
-
+body{
+    background-image: url("zelda_bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 #help, .bang{
    
     right: 0;
@@ -39,16 +43,12 @@
    
 }
 
-
-
-
-
 @keyframes example {
     0%{top: 0px; left: 0; }
     10%{top: 0px; left: 23%;background-color:rgb(213, 221, 68) }
-  20%  {top: -350px; left: 23%;background-color:rgba(44, 230, 230, 0.745) ; }
+  20%  {top: -350px; left: 23%;background-color:rgba(48, 197, 80, 0.745) ; }
   30%   {top: -350px; left: -23%;background-color:rgb(242, 94, 239) ; }
-  40%  {top: 0; left: -23%;background-color:rgb(58, 68, 201) ; }
+  40%  {top: 0; left: -23%;background-color:rgb(222, 172, 255)  ;color: rgb(179, 183, 183); }
   
 }
 
