@@ -7,7 +7,7 @@
 }
 
 #help{
-    margin-top: 100px;
+    margin-top: 200px;
     background-color: aquamarine;
     width: 20%;
     padding: 15px ;
@@ -46,8 +46,8 @@
 @keyframes example {
     0%{top: 0px; left: 0; }
     10%{top: 0px; left: 23%;background-color:rgb(213, 221, 68) }
-  20%  {top: -360px; left: 23%;background-color:rgba(44, 230, 230, 0.745) ; }
-  30%   {top: -360px; left: -23%;background-color:rgb(242, 94, 239) ; }
+  20%  {top: -350px; left: 23%;background-color:rgba(44, 230, 230, 0.745) ; }
+  30%   {top: -350px; left: -23%;background-color:rgb(242, 94, 239) ; }
   40%  {top: 0; left: -23%;background-color:rgb(58, 68, 201) ; }
   
 }
